@@ -14,4 +14,4 @@ plt.show()
 # Adding a linear trend line
 sns.regplot(x="Claims",y="Payment",data=swedish_motor_insurance,ci=None)
 plt.show()
-
+#gfgf
