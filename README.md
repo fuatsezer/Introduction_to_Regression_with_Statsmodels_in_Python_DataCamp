@@ -16,4 +16,4 @@ There is only one explanatory variable.
 * Given values of explanatory variables, you can predict the values of response variable.
 
 ## Fitting a linear Regression
-gfgf
+gfgfs
