@@ -16,3 +16,13 @@ There is only one explanatory variable.
 * Given values of explanatory variables, you can predict the values of response variable.
 
 ## Fitting a linear Regression
+### Straight lines are defined by two things
+#### Intercept
+The y value at the point when x is zero
+#### Slope
+The amount the y value increases if you increase x by one
+#### Equation 
+y = intercept + slope * x
+### Interpreting the model coefficients
+#### Equation 
+total_payment_sek = 19.99 + 3.41 * n_claims
